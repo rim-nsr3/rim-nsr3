@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rim Nassiri 👋</h1>
-<h4 align="center">Welcome to my profile! I'm a computer science and data science student, aspiring to be a Software / Machine Learning Engineer!</h4>
+<h4 align="center">Welcome to my profile! I'm a computer science and data science student, aspiring to be a Software / Machine Learning Engineer 😄!</h4>
 
 <br>
 
